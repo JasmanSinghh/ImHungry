@@ -1,0 +1,8 @@
+npm does the package installing for, i don't manually have to add package
+to package.json
+
+The packages that we need for googles api:
+  express: this is the server that runs the proxy
+  cors: this lets the app talk to the proxy
+  axios: lets http requests 
+
